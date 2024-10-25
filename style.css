@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(16, 3, 90);
+}
+.zagolovok{
+    color: yellow;
+    text-align: center;
+}
+.poragraw{
+    color: white;
+    text-align: center;
+}
+.span{
+    color: green;
+}
+.table{
+    background-color: rgb(16, 3, 90) ;
+    color: white;
+}
+.name{
+    color: white;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(217, 255, 0);
+    width: 400px;
+    text-align: center;
+    border-radius: 50px;
+}
